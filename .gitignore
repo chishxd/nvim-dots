@@ -1,0 +1,14 @@
+# Plugin managers
+lazy-lock.json
+packer_compiled.lua
+
+# Cache / Sessions
+session/
+swap/
+undo/
+plugin/packer_compiled.lua
+
+# LSP / logs
+.log/
+.cache/
+pack/
